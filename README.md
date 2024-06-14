@@ -1,38 +1,44 @@
-- 👋 Hi, I’m @Abdulkvng
-- 👀 I’m interested in AI / ML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## Hi there, I am Abdulrahman 👋🏽 
 
 
-# Prework - *Example*
 
-Submitted by: **Abdulrahman**
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
+<p><em>Computer Science and Business Administration at <a href="https://www.usc.edu/">University of Southern California 🌴 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-**Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+[![Linkedin: Abdulrahmansadiq](https://img.shields.io/badge/-abdulrahmansadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrahman-sadiq/)](https://www.linkedin.com/in/abdulrahman-sadiq/)
+[![GitHub Abdulkvng](https://img.shields.io/github/followers/Abdulkvng?label=follow&style=social)](https://github.com/Abdulkvng)
 
-## Required Features
 
-The following **required** functionality is completed:
+I am Abdulrahman, a Computer Engineer and AI/ML enthusiast from Houston, TX. 
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
+🔭 I'm working on:
+- AI-empowered VR content analysis for safer virtual environments
+- Applying AI/ML techniques to develop innovative solutions
+- Some personal projects
+- Doing cool things 😎
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+🌱 I'm currently learning:
+- Swift, Xcode, and Apple's frameworks
+- Linear algebra, statistical distributions, and data science methodologies
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+📫 How to reach me:
+- Email: abdulkvng@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-sadiq/
 
-## App Brainstorming (Step 4)
 
-## Notes
+### Currently listening to on Spotify:
 
-Describe any challenges encountered while building the app.
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&redirect=true)  -->
+
+<div align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
+</div>
+
+
 
 ## License
 
