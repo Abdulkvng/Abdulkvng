@@ -4,7 +4,7 @@
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
-<p><em>Computer Science and Business Administration at <a href="https://www.usc.edu/">University of Southern California 🌴 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Science and Business Administration at <a href="https://www.usc.edu/">University of Southern California 🌴 </a>
 
 
 [![Linkedin: Abdulrahmansadiq](https://img.shields.io/badge/-abdulrahmansadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrahman-sadiq/)](https://www.linkedin.com/in/abdulrahman-sadiq/)
