@@ -11,17 +11,7 @@
 [![GitHub Abdulkvng](https://img.shields.io/github/followers/Abdulkvng?label=follow&style=social)](https://github.com/Abdulkvng)
 
 
-I am Abdulrahman, a Computer Engineer and AI/ML enthusiast from Houston, TX. 
 
-🔭 I'm working on:
-- AI-empowered VR content analysis for safer virtual environments
-- Applying AI/ML techniques to develop innovative solutions
-- Some personal projects
-- Doing cool things 😎
-
-🌱 I'm currently learning:
-- Swift, Xcode, and Apple's frameworks
-- Linear algebra, statistical distributions, and data science methodologies
 
 📫 How to reach me:
 - Email: abdulkvng@gmail.com
