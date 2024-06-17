@@ -18,16 +18,6 @@
 - LinkedIn: https://www.linkedin.com/in/abdulrahman-sadiq/
 
 
-### Currently listening to on Spotify:
-
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&redirect=true)  -->
-
-<div align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
-</div>
-
 
 
 ## License
