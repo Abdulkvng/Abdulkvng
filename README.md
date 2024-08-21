@@ -8,6 +8,12 @@
 
 I am Abdul, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
 
+I'm working on:
+
+AI-empowered VR content analysis for safer virtual environments
+Applying AI/ML techniques to develop innovative solutions
+Some personal projects
+
 [![Linkedin: Abdulrahmansadiq](https://img.shields.io/badge/-abdulrahmansadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrahman-sadiq/)](https://www.linkedin.com/in/abdulrahman-sadiq/)
 [![GitHub Abdulkvng](https://img.shields.io/github/followers/Abdulkvng?label=follow&style=social)](https://github.com/Abdulkvng)
 
