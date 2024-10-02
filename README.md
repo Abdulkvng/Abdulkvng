@@ -33,6 +33,7 @@ Hi, I’m Abdul 😊, an aspiring Computer Engineer and AI/ML enthusiast from Ho
 Email: abdulkvng@gmail.com
 LinkedIn: Abdulrahman Sadiq
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’m a huge fan of sci-fi movies, futuristic tech, and always finding time to learn something new!
 
 
