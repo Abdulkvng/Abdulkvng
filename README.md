@@ -16,19 +16,16 @@ Applying AI/ML techniques to build innovative tech solutions
 Some exciting personal projects
 Doing cool things 😎
 Sleep (because balance is important!)
-
 🌱 I'm currently learning:
 
 Python, TensorFlow, and deep learning frameworks
 Applied Machine Learning concepts
-Programming in C++ 
-
+Programming in C++
 💬 Ask me about:
 
-My experience working at Capital One 
+My experience working at Capital One
 Building apps for financial literacy and mental health awareness
 Exploring the intersection of AI and social good
-
 📫 How to reach me:
 
 Email: abdulkvng@gmail.com
