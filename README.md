@@ -8,11 +8,11 @@
 
 I am Abdul, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
 
-Hi, I’m Abdul 😊, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python and HTML, as well as diving into AI/ML innovations, all while studying at USC!
+Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
 🔭 I'm working on:
 
-- Applying AI/ML techniques to build innovative tech solutions
+- 
 - Some exciting personal projects
 - Doing cool things 😎
 - Sleep (because balance is important!)
