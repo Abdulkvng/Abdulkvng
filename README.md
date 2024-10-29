@@ -10,9 +10,26 @@ I am Abdul, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
 
 Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
+Cool Things I have made: 
+
+- <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
+
+    The goal of the game is to beat the dealer by getting as close to 21 points as possible without going over.
+
+- <a href="https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html">AI/ML BLOG</a>
+
+    Whether you're just curious about Artificial Intelligence (AI) and Machine Learning (ML) or you're looking to dive deep into these fascinating fields, you've come to the right place. 🌟
+
+- <a href="https://github.com/Abdulkvng/OneStop-Converter">ONE STOP CONVERTER </a>
+
+    Fetches live data for stocks, cryptocurrencies, and traditional currencies. It allows you to effortlessly convert between any of these asset types from a single, unified platform. 
+
+
+
+
+
 🔭 I'm working on:
 
-- 
 - Some exciting personal projects
 - Doing cool things 😎
 - Sleep (because balance is important!)
