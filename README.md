@@ -10,7 +10,7 @@ I am Abdul, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
 
 Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
-Cool Things I have made: 
+Cool things I have made: 
 
 - <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
 
