@@ -45,6 +45,7 @@ Cool things I have made:
 - My experience working at Capital One
 - Building apps for financial literacy and mental health awareness
 - Exploring the intersection of AI and social good
+  
 📫 How to reach me:
 
 Email: abdulkvng@gmail.com
