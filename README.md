@@ -12,6 +12,11 @@ Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houst
 
 Cool things I have made: 
 
+- <a href="https://passwordsvault.netlify.app/"> 🔐PasswordVault </a>
+
+    This is a simple web-based application that creates and stores strong passwords on a secured website.
+
+
 - <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
 
     The goal of the game is to beat the dealer by getting as close to 21 points as possible without going over.
