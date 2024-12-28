@@ -12,7 +12,7 @@ Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houst
 
 Cool things I have made: 
 
-- <a href="https://passwordsvault.netlify.app/"> 🔐 PASSWORDVAULT </a>
+- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault </a>
 
     This is a simple web-based application that creates and stores strong passwords on a secured website.
 
