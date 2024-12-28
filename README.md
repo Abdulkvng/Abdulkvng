@@ -25,7 +25,7 @@ This is a simple web-based application that creates and stores strong passwords 
 
 
 
- Inventory Management for Stores and Companies 🏪. 💼SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
+ Inventory Management for Stores and Companies 🏪. SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
 
 - <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
 
