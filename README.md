@@ -12,12 +12,18 @@ Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houst
 
 Cool things I have made: 
 
-- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault:  </a> <a href="https://github.com/Abdulkvng/PasswordVault"> Github </a> 
+- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault:  </a>
+
+<a href="https://github.com/Abdulkvng/PasswordVault"> Github Link </a> 
 
     This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
 
   
 - <a href="https://admirable-taffy-2c8fd6.netlify.app/"> 📦 SmartStock </a>
+
+<a href="https://github.com/Abdulkvng/SmartStock"> Github Link </a> 
+
+
 
     Inventory Management for Stores and Companies 🏪. 💼SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
 
