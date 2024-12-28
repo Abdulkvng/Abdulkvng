@@ -14,7 +14,7 @@ Cool things I have made:
 
 - <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault </a>
 
-    This is a simple web-based application that creates and stores strong passwords on a secured website.
+    This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
 
   
 - <a href="https://admirable-taffy-2c8fd6.netlify.app/"> 📦 SmartStock </a>
