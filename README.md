@@ -6,7 +6,7 @@
 
 <p><em>Computer Science and Business Administration at <a href="https://www.usc.edu/">University of Southern California 🌴 </a>
 
-I am Abdul, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
+I am Akintunde, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX.
 
 Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
