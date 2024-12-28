@@ -16,7 +16,7 @@ Cool things I have made:
 
 <a href="https://github.com/Abdulkvng/PasswordVault"> Github Link </a> 
 
-    This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
+This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
 
   
 - <a href="https://admirable-taffy-2c8fd6.netlify.app/"> 📦 SmartStock </a>
@@ -25,19 +25,19 @@ Cool things I have made:
 
 
 
-    Inventory Management for Stores and Companies 🏪. 💼SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
+ Inventory Management for Stores and Companies 🏪. 💼SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
 
 - <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
 
-    The goal of the game is to beat the dealer by getting as close to 21 points as possible without going over.
+  The goal of the game is to beat the dealer by getting as close to 21 points as possible without going over.
 
 - <a href="https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html">AI/ML BLOG</a>
 
-    Whether you're just curious about Artificial Intelligence (AI) and Machine Learning (ML) or you're looking to dive deep into these fascinating fields, you've come to the right place. 🌟
+  Whether you're just curious about Artificial Intelligence (AI) and Machine Learning (ML) or you're looking to dive deep into these fascinating fields, you've come to the right place. 🌟
 
 - <a href="https://github.com/Abdulkvng/OneStop-Converter">ONE STOP CONVERTER </a>
 
-    Fetches live data for stocks, cryptocurrencies, and traditional currencies. It allows you to effortlessly convert between any of these asset types from a single, unified platform. 
+  Fetches live data for stocks, cryptocurrencies, and traditional currencies. It allows you to effortlessly convert between any of these asset types from a single, unified platform. 
 
 
 
