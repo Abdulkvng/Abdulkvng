@@ -12,7 +12,7 @@ Hi, I’m Abdul 😊, an aspiring Computer Engineer + Product Manager from Houst
 
 Cool things I have made: 
 
-- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault </a> <a href="https://github.com/Abdulkvng/PasswordVault"> Github </a> PasswordVault
+- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault:  </a> <a href="https://github.com/Abdulkvng/PasswordVault"> Github </a> 
 
     This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
 
