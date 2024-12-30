@@ -10,6 +10,8 @@
 
 Hi, I’m Akintunde 😊, an aspiring Software Engineer + PM and AI/ML enthusiast from Houston, TX. This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python, SQL and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
+Passionate about leveraging data, technology, and people-centered solutions to drive innovation and create meaningful impact. I thrive at the intersection of analytics and human interaction, using data-driven insights to solve complex problems, build engaging products, and empower diverse communities
+
 Cool things I have made: 
 
 - <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault:  </a>
