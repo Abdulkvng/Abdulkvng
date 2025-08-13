@@ -8,23 +8,23 @@
 
 
 
-I am an aspiring Software Engineer and PM and AI/ML enthusiast from Houston, TX. I am passionate about leveraging data, technology, and user-centered solutions to drive innovation and create meaningful impact. I thrive at the intersection of analytics and human interaction, using data-driven insights to solve complex problems, build engaging products, and empower diverse communities
+I am an aspiring Software Engineer and AI/ML enthusiast from Houston, TX. I am passionate about leveraging data, technology, and user-centered solutions to drive innovation and create meaningful impact. I thrive at the intersection of analytics and human interaction, using data-driven insights to solve complex problems, build engaging products, and empower diverse communities
 
 
 This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python, SQL and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
 Cool things I have made: 
 
-- <a href="https://passwordsvault.netlify.app/"> 🔐 PasswordVault:  </a>
+Here’s your section with fitting emojis added:
+<a href="https://github.com/Abdulkvng/AI-Research-Agent">🧠 AI Research Agent</a>
+  An AI-powered assistant that uses NLP, GenAI, RAG, and vector databases to search across documents or the web, summarize results, and answer user queries in real time.
 
-<a href="https://github.com/Abdulkvng/PasswordVault"> Github Link </a> 
+<a href="https://github.com/Abdulkvng/Lingo">🌍 Lingo</a>
+  A cultural immersion and language learning app that gamifies the process of mastering new languages, making learning interactive and fun.
 
-This is a simple web-based application that creates and stores strong passwords on a secured website. A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
+<a href="https://github.com/Abdulkvng/URL-Shortener">🔗 URL Shortener</a>
+  A lightweight tool to generate short, shareable links with tracking capabilities for analytics.
 
-  
-- <a href="https://admirable-taffy-2c8fd6.netlify.app/"> 📦 SmartStock </a>
-
-<a href="https://github.com/Abdulkvng/SmartStock"> Github Link </a> 
 
 
 
