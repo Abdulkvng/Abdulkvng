@@ -13,34 +13,57 @@ I am an aspiring Software Engineer and AI/ML enthusiast from Houston, TX. I am p
 
 This year, I'm thrilled to be working on a variety of full-stack projects utilizing Python, SQL and HTML, as well as diving into AI/ML innovations, all while studying at USC!
 
-Cool things I have made: 
 
-Here’s your section with fitting emojis added:
-<a href="https://github.com/Abdulkvng/AI-Research-Agent">🧠 AI Research Agent</a>
-  An AI-powered assistant that uses NLP, GenAI, RAG, and vector databases to search across documents or the web, summarize results, and answer user queries in real time.
+## 🚀 Projects
 
-<a href="https://github.com/Abdulkvng/Lingo">🌍 Lingo</a>
-  A cultural immersion and language learning app that gamifies the process of mastering new languages, making learning interactive and fun.
+### 🌍 Lingo – AI-Powered Language Learning Platform  
+An **interactive language-learning platform** that combines **gamification** with **AI-driven natural language processing** to help users achieve fluency. Lingo uses **context-aware chatbots**, **speech recognition**, and **real-time cultural immersion scenarios** to enhance learning.  
 
-<a href="https://github.com/Abdulkvng/URL-Shortener">🔗 URL Shortener</a>
-  A lightweight tool to generate short, shareable links with tracking capabilities for analytics.
+**Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS, WebSockets  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Mongoose ORM)  
+- **AI:** OpenAI API, LangChain  
+- **Hosting & Deployment:** Docker, AWS Elastic Beanstalk  
+- **Other:** JWT Authentication, Cloudinary for media storage  
 
+🔗 *Coming Soon: [GitHub Repo](#)*  
 
+---
 
+### 🧠 AI Research Agent – Intelligent Information Retrieval & Summarization  
+A **retrieval-augmented generation (RAG)** system that can **search, analyze, and summarize** large datasets or web content. The agent uses **vector embeddings** for semantic search and provides **contextual, citation-rich answers** to complex queries.  
 
- Inventory Management for Stores and Companies 🏪. SmartStock is a powerful concept website designed to streamline inventory management for stores, businesses, and companies of all sizes. Whether you're managing a    small retail shop or a large enterprise, SmartStock offers an intuitive and efficient solution to track, manage, and optimize your inventory in real-time. 
+**Tech Stack:**  
+- **Backend API:** Python (FastAPI), Flask  
+- **AI/ML:** LangChain, OpenAI API, Pinecone (Vector DB)  
+- **Data Processing:** Pandas, spaCy, scikit-learn  
+- **Containerization & Deployment:** Docker, Kubernetes  
+- **Other:** REST API, WebSockets, Nginx reverse proxy  
 
-- <a href="https://mellifluous-pithivier-23460c.netlify.app/">BLACKJACK GAME ♤ ♣️ ♠️ </a>
+🔗 *Coming Soon: [GitHub Repo](#)*  
 
-  The goal of the game is to beat the dealer by getting as close to 21 points as possible without going over.
+---
 
-- <a href="https://uscwebdev.github.io/itp104-submissions-Abdulkvng/finalprojectitp/final.html">AI/ML BLOG</a>
+### 🔗 QuickLink – Secure URL Shortener with Analytics  
+A **lightweight, high-performance URL shortening service** with **click-tracking analytics**, **custom aliases**, and **rate-limiting** for security. Built with a **REST API backend** and **containerized for scalability**.  
 
-  Whether you're just curious about Artificial Intelligence (AI) and Machine Learning (ML) or you're looking to dive deep into these fascinating fields, you've come to the right place. 🌟
+**Tech Stack:**  
+- **Backend:** Flask (Python), REST API  
+- **Database:** PostgreSQL, Redis (caching)  
+- **Hosting & Deployment:** Docker, AWS EC2, Nginx  
+- **Other:** JWT Authentication, Rate Limiting, SQLAlchemy ORM  
 
-- <a href="https://github.com/Abdulkvng/OneStop-Converter">ONE STOP CONVERTER </a>
+🔗 *Coming Soon: [GitHub Repo](#)*  
 
-  Fetches live data for stocks, cryptocurrencies, and traditional currencies. It allows you to effortlessly convert between any of these asset types from a single, unified platform. 
+---
+
+## 📈 Current Focus
+- Designing **scalable microservices** for AI applications  
+- Experimenting with **low-latency inference** in production AI systems  
+- Building **educational technology tools** with **gamified learning mechanics**  
+- Optimizing **data pipelines** for real-time analytics  
+
 
 
 
