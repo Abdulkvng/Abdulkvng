@@ -43,7 +43,7 @@ An **interactive language-learning platform** that combines **gamification** wit
 - **Hosting & Deployment:** Docker, AWS Elastic Beanstalk  
 - **Other:** JWT Authentication, Cloudinary for media storage  
 
-🔗 [GitHub Repo](https://github.com/Abdulkvng/Lingo)*  
+🔗 [GitHub Repo](https://github.com/Abdulkvng/Lingo) 
 
 ---
 
@@ -56,7 +56,7 @@ A **lightweight, high-performance URL shortening service** with **click-tracking
 - **Hosting & Deployment:** Docker, AWS EC2, Nginx  
 - **Other:** JWT Authentication, Rate Limiting, SQLAlchemy ORM  
 
-🔗 *Coming Soon: [GitHub Repo](#)*  
+🔗 [GitHub Repo](https://github.com/Abdulkvng/url-shortener-backend)
 
 ---
 
@@ -74,24 +74,7 @@ A **lightweight, high-performance URL shortening service** with **click-tracking
 
 
 
-## 🔭 I'm working on:
 
-- Some exciting personal projects
-- Doing cool things 😎
-- Sleep (because balance is important!)
-  
-## 🌱 I'm currently learning:
-
-- Programming in C++
-- Frontend (React, Figma, HTML, CSS)
-- App Development
-
-## 💬 Ask me about:
-
-- My experience working at Capital One
-- Building apps for financial literacy and mental health awareness
-- Exploring the intersection of AI and social good
-  
 ## 📫 How to reach me:
 
 Email: abdulkvng@gmail.com
