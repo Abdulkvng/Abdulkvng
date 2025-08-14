@@ -16,20 +16,7 @@ This year, I'm thrilled to be working on a variety of full-stack projects utiliz
 
 ## 🚀 Projects
 
-### 🌍 Lingo – AI-Powered Language Learning Platform  
-An **interactive language-learning platform** that combines **gamification** with **AI-driven natural language processing** to help users achieve fluency. Lingo uses **context-aware chatbots**, **speech recognition**, and **real-time cultural immersion scenarios** to enhance learning.  
 
-**Tech Stack:**  
-- **Frontend:** React.js, Tailwind CSS, WebSockets  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Mongoose ORM)  
-- **AI:** OpenAI API, LangChain  
-- **Hosting & Deployment:** Docker, AWS Elastic Beanstalk  
-- **Other:** JWT Authentication, Cloudinary for media storage  
-
-🔗 *Coming Soon: [GitHub Repo](#)*  
-
----
 
 ### 🧠 AI Research Agent – Intelligent Information Retrieval & Summarization  
 A **retrieval-augmented generation (RAG)** system that can **search, analyze, and summarize** large datasets or web content. The agent uses **vector embeddings** for semantic search and provides **contextual, citation-rich answers** to complex queries.  
@@ -41,7 +28,22 @@ A **retrieval-augmented generation (RAG)** system that can **search, analyze, an
 - **Containerization & Deployment:** Docker, Kubernetes  
 - **Other:** REST API, WebSockets, Nginx reverse proxy  
 
-🔗 *Coming Soon: [GitHub Repo](#)*  
+🔗 [GitHub Repo](https://github.com/Abdulkvng/ai-research-agent1) 
+
+---
+
+### 🌍 Lingo – AI-Powered Language Learning Platform  
+An **interactive language-learning platform** that combines **gamification** with **AI-driven natural language processing** to help users achieve fluency. Lingo uses **context-aware chatbots**, **speech recognition**, and **real-time cultural immersion scenarios** to enhance learning.  
+
+**Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS, WebSockets  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Mongoose ORM)  
+- **AI:** OpenAI API, LangChain  
+- **Hosting & Deployment:** Docker, AWS Elastic Beanstalk  
+- **Other:** JWT Authentication, Cloudinary for media storage  
+
+🔗 [GitHub Repo](https://github.com/Abdulkvng/Lingo)*  
 
 ---
 
