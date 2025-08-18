@@ -45,12 +45,18 @@ This year, I'm thrilled to be working on a variety of full-stack projects utiliz
 ### 🧠 AI Research Agent – Intelligent Information Retrieval & Summarization  
 A **retrieval-augmented generation (RAG)** system that can **search, analyze, and summarize** large datasets or web content. The agent uses **vector embeddings** for semantic search and provides **contextual, citation-rich answers** to complex queries.  
 
-**Tech Stack:**  
-- **Backend API:** Python (FastAPI), Flask  
-- **AI/ML:** LangChain, OpenAI API, Pinecone (Vector DB)  
-- **Data Processing:** Pandas, spaCy, scikit-learn  
-- **Containerization & Deployment:** Docker, Kubernetes  
-- **Other:** REST API, WebSockets, Nginx reverse proxy  
+***Tech Stack:***
+* ***Backend Framework:*** Python (CLI-based application)
+* ***AI/ML:*** OpenAI GPT-4 API, LangChain, OpenAI Embeddings
+* ***Vector Database:*** ChromaDB (local vector storage)
+* ***Document Processing:*** PyMuPDF (PDF extraction), BeautifulSoup (web scraping)
+* ***Text Processing:*** LangChain RecursiveCharacterTextSplitter, tiktoken
+* ***Output Generation:*** python-docx (Word documents)
+* ***Environment Management:*** python-dotenv
+* ***Web Interface:*** Streamlit (optional UI)
+* ***Other:*** requests (HTTP client), tempfile (temporary file handling)
+
+
 
 🔗 [GitHub Repo](https://github.com/Abdulkvng/ai-research-agent1) 
 
