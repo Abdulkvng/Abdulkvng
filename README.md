@@ -33,15 +33,23 @@ A **retrieval-augmented generation (RAG)** system that can **search, analyze, an
 ---
 
 ### 🌍 Lingo – AI-Powered Language Learning Platform  
-An **interactive language-learning platform** that combines **gamification** with **AI-driven natural language processing** to help users achieve fluency. Lingo uses **context-aware chatbots**, **speech recognition**, and **real-time cultural immersion scenarios** to enhance learning.  
+
+**Lingo** is an AI-powered speech coaching platform that provides **personalized language fluency feedback** through real-time audio analysis and multimodal AI. It gamifies learning with **vocabulary challenges** and tracks progress using **comprehensive performance analytics**.  
+
+**Key Features:**  
+- Real-time **speech analysis** with WebRTC audio capture  
+- **Multimodal AI processing** using Google Gemini 2.5 Flash  
+- **Gamified progress tracking** to enhance speaking proficiency  
+- **Performance analytics** with visual dashboards  
 
 **Tech Stack:**  
-- **Frontend:** React.js, Tailwind CSS, WebSockets  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Mongoose ORM)  
-- **AI:** OpenAI API, LangChain  
-- **Hosting & Deployment:** Docker, AWS Elastic Beanstalk  
-- **Other:** JWT Authentication, Cloudinary for media storage  
+- **Frontend:** React 19.1.0, TypeScript, Tailwind CSS, Vite  
+- **AI Processing:** Google Gemini 2.5 Flash, Multimodal Analysis  
+- **Audio Tech:** WebRTC MediaRecorder, Web Audio API  
+- **Data Visualization:** Chart.js, React-ChartJS-2  
+- **Storage & Deployment:** LocalStorage, Progressive Web App  
+- **Other:** Real-time volume visualization, structured JSON schemas, mobile-first responsive design
+
 
 🔗 [GitHub Repo](https://github.com/Abdulkvng/Lingo) 
 
