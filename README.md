@@ -18,19 +18,6 @@ This year, I'm thrilled to be working on a variety of full-stack projects utiliz
 
 
 
-### 🧠 AI Research Agent – Intelligent Information Retrieval & Summarization  
-A **retrieval-augmented generation (RAG)** system that can **search, analyze, and summarize** large datasets or web content. The agent uses **vector embeddings** for semantic search and provides **contextual, citation-rich answers** to complex queries.  
-
-**Tech Stack:**  
-- **Backend API:** Python (FastAPI), Flask  
-- **AI/ML:** LangChain, OpenAI API, Pinecone (Vector DB)  
-- **Data Processing:** Pandas, spaCy, scikit-learn  
-- **Containerization & Deployment:** Docker, Kubernetes  
-- **Other:** REST API, WebSockets, Nginx reverse proxy  
-
-🔗 [GitHub Repo](https://github.com/Abdulkvng/ai-research-agent1) 
-
----
 
 ### 🌍 Lingo – AI-Powered Language Learning Platform  
 
@@ -52,6 +39,21 @@ A **retrieval-augmented generation (RAG)** system that can **search, analyze, an
 
 
 🔗 [GitHub Repo](https://github.com/Abdulkvng/Lingo) 
+
+---
+
+### 🧠 AI Research Agent – Intelligent Information Retrieval & Summarization  
+A **retrieval-augmented generation (RAG)** system that can **search, analyze, and summarize** large datasets or web content. The agent uses **vector embeddings** for semantic search and provides **contextual, citation-rich answers** to complex queries.  
+
+**Tech Stack:**  
+- **Backend API:** Python (FastAPI), Flask  
+- **AI/ML:** LangChain, OpenAI API, Pinecone (Vector DB)  
+- **Data Processing:** Pandas, spaCy, scikit-learn  
+- **Containerization & Deployment:** Docker, Kubernetes  
+- **Other:** REST API, WebSockets, Nginx reverse proxy  
+
+🔗 [GitHub Repo](https://github.com/Abdulkvng/ai-research-agent1) 
+
 
 ---
 
