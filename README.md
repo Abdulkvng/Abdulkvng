@@ -20,6 +20,8 @@ This year, I'm thrilled to be working on a variety of full-stack projects utiliz
 
 
 ### 🌍 Lingo – AI-Powered Language Learning Platform  
+[Visit Lingo](https://lingo-ai-language-coach-339926374561.us-west1.run.app/)
+
 
 **Lingo** is an AI-powered speech coaching platform that provides **personalized language fluency feedback** through real-time audio analysis and multimodal AI. It gamifies learning with **vocabulary challenges** and tracks progress using **comprehensive performance analytics**.  
 
